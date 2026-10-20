@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "MCP 控制层协议规范（律令格式）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-19
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/MCP"
+keywords:
+  - MCP
+  - 模块互连
+  - 控制层协议
+  - C4 控制层
+  - 四层语义
+  - 三层签名
+  - 律令格式
